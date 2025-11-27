@@ -28,7 +28,8 @@ A varredura anterior revelou que o host **192.168.56.101** está acessível na r
 nmap -sV -p 21,22,80,445,139 192.168.56.101
 ```
 
-![image.png](attachment:bc96eeb9-febd-466e-ba1e-136b89da65a7:image.png)
+![Resultado do Nmap](images/image.png)
+
 
 ### 3 - Wordlist
 
